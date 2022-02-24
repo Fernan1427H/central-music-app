@@ -1,12 +1,12 @@
 import React from "react";
-import Logo from "./images/Vector.png";
+import Logoinicio from "./images/Vector.png";
 import carrito from "./images/carrito.png";
 import login from "./images/login.png";
 
 const Logo = () => {
   return (
     <div>
-      <img src={Logo} alt="Logo"></img>
+      <img src={Logoinicio} alt="Logo"></img>
       <p>
         Central<span>Music</span>
       </p>
